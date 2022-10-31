@@ -1,0 +1,22 @@
+{
+  "name": "repo-oct30-0738pm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelooliveira/repo-Oct30-0738PM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelooliveira/repo-Oct30-0738PM/issues"
+  },
+  "homepage": "https://github.com/marcelooliveira/repo-Oct30-0738PM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
